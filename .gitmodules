@@ -1,0 +1,3 @@
+[submodule "snapshot"]
+	path = snapshot
+	url = git@github.com:fluidjax/testin.git
